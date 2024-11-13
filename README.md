@@ -41,7 +41,9 @@ Using Power BI, I developed a comprehensive dashboard that includes:
 - **Trend Analysis**: Identifying trends in KPIs over time.
 - **Drill-Down Capabilities**: Allowing users to explore data in detail.
 - **Customizable Dashboards**: Enabling users to tailor the dashboard to their needs.
-
+- **Breakdown Analysis of Key KPIs**: Key performance indicators (KPIs) such as income, expenses, and profit are visualized through various charts, graphs,
+- and maps across dedicated dashboards, offering a comprehensive and insightful view of the data.
+  
 ## Main Dashboard
 The main dashboard provides a visual overview of the financial performance, highlighting key insights and trends across different branches and regions.
 
