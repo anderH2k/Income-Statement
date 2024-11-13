@@ -1,5 +1,5 @@
 # Income Statement Analysis Dashboard Project
-
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/372666b3-380f-430f-b383-28262b71a7ed?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare
 ## Description
 The Income Statement Project in Power BI, built using a dummy bank dataset, includes multiple dashboard pages that centralize financial metrics. This tool enables the finance and accounting team to analyze income, expenses, and profit margins, providing data-driven insights into profitability and operational efficiency.
 
@@ -44,7 +44,9 @@ Using Power BI, I developed a comprehensive dashboard that includes:
 
 ## Main Dashboard
 The main dashboard provides a visual overview of the financial performance, highlighting key insights and trends across different branches and regions.
+
 ![Screenshot_13-11-2024_115247_](https://github.com/user-attachments/assets/40825c7c-dd63-46f0-90ac-781f8fd3040a)
+
 ## Key Takeaways After Analysis
 - The bank has demonstrated strong financial performance, with healthy net income and profit margins.
 - Revenue growth is consistent, and cost control measures effectively maintain profitability.
