@@ -44,7 +44,7 @@ Using Power BI, I developed a comprehensive dashboard that includes:
 
 ## Main Dashboard
 The main dashboard provides a visual overview of the financial performance, highlighting key insights and trends across different branches and regions.
-https://github.com/anderH2k/Income-Statement/issues/1#issue-2655078768
+![Screenshot_13-11-2024_115247_](https://github.com/user-attachments/assets/40825c7c-dd63-46f0-90ac-781f8fd3040a)
 ## Key Takeaways After Analysis
 - The bank has demonstrated strong financial performance, with healthy net income and profit margins.
 - Revenue growth is consistent, and cost control measures effectively maintain profitability.
