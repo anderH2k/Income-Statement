@@ -3,7 +3,7 @@
 ### Interactive Dashboards: https://app.powerbi.com/groups/me/reports/372666b3-380f-430f-b383-28262b71a7ed?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare
 
 ## Data Source
-- I have no permission to upload data sources because they contain personal, confidential, or proprietary information which is important to protect it.
+I have no permission to upload data sources because they contain personal, confidential, or proprietary information which is important to protect it.
 
 ## Description
 The Income Statement Project in Power BI, built using a dummy bank dataset, includes multiple dashboard pages that centralize financial metrics. This tool enables the finance and accounting team to analyze income, expenses, and profit margins, providing data-driven insights into profitability and operational efficiency.
